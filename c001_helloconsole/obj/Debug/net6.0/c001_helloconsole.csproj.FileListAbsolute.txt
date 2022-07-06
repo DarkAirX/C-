@@ -1,0 +1,15 @@
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\bin\Debug\net6.0\c001_helloconsole.exe
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\bin\Debug\net6.0\c001_helloconsole.deps.json
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\bin\Debug\net6.0\c001_helloconsole.runtimeconfig.json
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\bin\Debug\net6.0\c001_helloconsole.dll
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\bin\Debug\net6.0\c001_helloconsole.pdb
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.csproj.AssemblyReference.cache
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.AssemblyInfoInputs.cache
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.AssemblyInfo.cs
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.dll
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\refint\c001_helloconsole.dll
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.pdb
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\c001_helloconsole.genruntimeconfig.cache
+C:\Users\DarkNess\Desktop\С\c001_helloconsole\obj\Debug\net6.0\ref\c001_helloconsole.dll
